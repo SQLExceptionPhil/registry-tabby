@@ -71,6 +71,17 @@
     "sha256": "5b2eb7698081b8ed4528be77eb9b2c44ee44cdfb6c2690834e81edc2e5e39c7b"
   },
   {
+    "name": "CodeLlama-70B-hf-GGUF",
+    "provider_url": "https://huggingface.co/codellama/CodeLlama-13b-hf",
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
+    "urls": [
+      "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q4_K_M.gguf"
+    ],
+    "sha256": "ccc9d9e37ccb8dda3f0654edbc9084a45702c1d0b1317f15994682a5f66d7dd2"
+  },
+  {
     "name": "WizardCoder-3B",
     "provider_url": "https://huggingface.co/WizardLM/WizardCoder-3B-V1.0",
     "license_name": "BigCode-OpenRAIL-M",
