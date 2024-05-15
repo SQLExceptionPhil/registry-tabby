@@ -71,6 +71,17 @@
     "sha256": "5b2eb7698081b8ed4528be77eb9b2c44ee44cdfb6c2690834e81edc2e5e39c7b"
   },
   {
+    "name": "Meta-Llama-3-Q5_K_M",
+    "provider_url": "https://huggingface.co/codellama/CodeLlama-13b-hf",
+    "license_name": "Llama 3",
+    "license_url": "https://llama.meta.com/llama3/license",
+    "prompt_template": "{prefix}",
+    "urls": [
+      "https://huggingface.co/QuantFactory/Meta-Llama-3-8B-GGUF/resolve/main/Meta-Llama-3-8B.Q5_K_M.gguf"
+    ],
+    "sha256": "98b2654bb7bbe434a2ac56cd4239b384d12ed2896ca71e1bfcff938344694996"
+  },
+  {
     "name": "CodeLlama-70B-hf-GGUF",
     "provider_url": "https://huggingface.co/codellama/CodeLlama-13b-hf",
     "license_name": "Llama 2",
