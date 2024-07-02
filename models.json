@@ -159,5 +159,16 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q4_K_M.gguf"
     ],
     "sha256": "28cef03e1b2d2478dafdb09f1520417cab55efcd3d1cc22bb1950c90bcd8804b"
+  },
+  {
+    "name": "codegemma-7b-Q6_K",
+    "license_name": "",
+    "license_url": "",
+    "prompt_template": "<|fim_prefix|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>",
+    "provider_url": "https://huggingface.co/bartowski/codegemma-7b-GGUF",
+    "urls": [
+      "https://huggingface.co/bartowski/codegemma-7b-GGUF/resolve/main/codegemma-7b-Q6_K.gguf"
+    ],
+    "sha256": "113f642a52539bba5e6694191e738065bd8357f9378118a654ec80aff6ba3a1f"
   }
 ]
